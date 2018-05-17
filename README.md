@@ -6,7 +6,12 @@
 
 `git clone` the repository, `cd` into it and `npm install` the module dependencies. 
 
-To see it in action, `npm install -g` while in the directory to install it locally. Run using `node-starter`. 
+To see it in action, `npm install -g` while in the directory to install it locally. Run using `node-starter <arg>`.
+
+e.g. 
+```bash
+$ node-starter test
+``` 
 
 ## Features
 

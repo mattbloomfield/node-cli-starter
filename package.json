@@ -11,6 +11,6 @@
     "debug": "~2.6.9"
   },
   "bin": {
-    "node-starter": "./src/index.js"
+    "node-starter": "./index.js"
   }
 }
