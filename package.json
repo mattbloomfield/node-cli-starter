@@ -1,0 +1,16 @@
+{
+  "name": "node-cli-starter",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "async": "^2.6.0",
+    "chalk": "^2.4.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.1",
+    "debug": "~2.6.9"
+  },
+  "bin": {
+    "node-starter": "./src/index.js"
+  }
+}
